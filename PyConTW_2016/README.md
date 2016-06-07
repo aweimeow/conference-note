@@ -7,6 +7,9 @@
 
 ##### [Keynote: 明日之後的世界 (The world after tomorrow) - Audrey Tang](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day1/[R0]Keynote_明日之後的世界_au)
 ##### [R0: Essential TDD(Test-Driven Development) for Pythoners](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day1/[R0]Essential_TDD_(Test-Driven_Development)_for_Pythoners)
+##### [R0: 那些年，我用 Django Admin 接的案子](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day1/[R0]那些年，我用_Django_Admin_接的案子)
+##### [R0: Reactive Programming in Python](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day1/[R0]Reactive_Programming_in_Python)
+
 
 
 ## Day2
