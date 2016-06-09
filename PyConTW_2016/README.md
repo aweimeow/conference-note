@@ -21,5 +21,7 @@
 ##### [R1: 連淡水阿嬤都聽得懂的機器學習套件入門 scikit-learn - Cicilia Chia-ying Lee](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day2/[R1]連淡水阿嬤都聽得懂的機器學習套件入門_scikit-learn)
 ##### [R1: 什麼是色彩管理 & 用 Python 自幹一個好嗎 ? - Kilik Kuo](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day2/[R1]什麼是色彩管理&用Python自幹一個好嗎)
 ##### [R1: Jupyter kernel: How to speak in another language - 廖偉涵 Adrian Liaw](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day2/[R1]Jupyter_kernel__How_to_speak_in_another_language)
+##### [R0: Write your own micro data processing framework in python - David Chen](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day2/[R0]Write_your_own_micro_data_processing_framework_in_python)
+##### [R0: Neural Art – Become a Great Artist by Deep Learning Algorithm - Mark Chang](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day2/[R0]Neural_Art-Become_a_Great_Artist_by_Deep_Learning_Algorithm)
 
 ## Day3
