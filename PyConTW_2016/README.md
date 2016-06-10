@@ -25,3 +25,7 @@
 ##### [R0: Neural Art – Become a Great Artist by Deep Learning Algorithm - Mark Chang](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day2/[R0]Neural_Art-Become_a_Great_Artist_by_Deep_Learning_Algorithm)
 
 ## Day3
+
+##### [Keynote: Django & Twisted - Amber Brown (HawkOwl)](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day3/[R0]Keynote_Django&Twisted)
+##### [R1: 如何打造關鍵字精靈 - 施晨揚](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day3/[R1]如何打造關鍵字精靈)
+##### [Keynote: Intentional Communication - Steve Dower](https://github.com/aweimeow/conference-note/tree/master/[R0]Keynote_Intentional_Communication)
