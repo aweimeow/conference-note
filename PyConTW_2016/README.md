@@ -3,6 +3,9 @@
 綜合三天 Conference 當中，我所聽的議程的官方共筆，
 及後續心得及重點整理的筆記。
 
+PyConTW 官方共筆: [Link](https://hackfoldr.org/pycontw2016/)
+PyConTW 2016 record: [Link](https://www.youtube.com/playlist?list=PLqtzN042Qpfe2PqSWmO8sJkzMlop-7EO8)
+
 ## Day1
 
 ##### [Keynote: 明日之後的世界 (The world after tomorrow) - Audrey Tang](https://github.com/aweimeow/conference-note/tree/master/PyConTW_2016/Day1/[R0]Keynote_明日之後的世界_au)
